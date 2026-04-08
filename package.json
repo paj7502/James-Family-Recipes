@@ -1,0 +1,15 @@
+{
+  "name": "James-Family-Recipes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "latest",
+    "react": "17.0.1",
+    "react-native": "0.64.2"
+  }
+}
